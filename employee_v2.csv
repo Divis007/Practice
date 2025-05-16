@@ -1,0 +1,21 @@
+employee_number,full_name,department_code,annual_compensation,hire_date,job_title,email
+EMP001,John Doe,DEPT101,50000,2023-01-15,Senior Engineer,john.doe@company.com
+EMP002,Jane Smith,DEPT102,60000,2023-02-20,Marketing Manager,jane.smith@company.com
+EMP003,Bob Wilson,DEPT101,55000,2023-03-10,Software Engineer,bob.wilson@company.com
+EMP004,Alice Brown,DEPT103,65000,2023-04-05,Financial Analyst,alice.brown@company.com
+EMP005,Charlie Davis,DEPT102,52000,2023-05-15,Marketing Specialist,charlie.davis@company.com
+EMP006,Emma Wilson,DEPT104,58000,2023-06-01,HR Manager,emma.wilson@company.com
+EMP007,David Chen,DEPT105,62000,2023-07-12,Research Scientist,david.chen@company.com
+EMP008,Sarah Miller,DEPT106,54000,2023-08-22,Operations Lead,sarah.miller@company.com
+EMP009,Michael Lee,DEPT101,57000,2023-09-30,DevOps Engineer,michael.lee@company.com
+EMP010,Rachel Green,DEPT102,59000,2023-10-15,Content Strategist,rachel.green@company.com
+EMP011,Tom Harris,DEPT103,63000,2023-11-05,Finance Manager,tom.harris@company.com
+EMP012,Lisa Wang,DEPT104,51000,2023-12-01,HR Specialist,lisa.wang@company.com
+EMP013,James Cook,DEPT105,66000,2024-01-10,Senior Researcher,james.cook@company.com
+EMP014,Anna Park,DEPT106,60000,2024-02-15,Operations Manager,anna.park@company.com
+EMP015,Kevin White,DEPT101,54000,2024-03-01,System Engineer,kevin.white@company.com
+EMP016,Elena Rodriguez,DEPT110,70000,2024-04-15,Data Scientist,elena.rodriguez@company.com
+EMP017,Mark Thompson,DEPT111,68000,2024-05-20,Cloud Architect,mark.thompson@company.com
+EMP018,Sophie Zhang,DEPT112,72000,2024-06-01,AI Specialist,sophie.zhang@company.com
+EMP019,Ryan O'Connor,DEPT113,64000,2024-07-10,Security Analyst,ryan.oconnor@company.com
+EMP020,Priya Patel,DEPT114,69000,2024-08-15,Product Manager,priya.patel@company.com
